@@ -1,4 +1,4 @@
-package behavior.simplefactory.demo1;
+package create.simplefactory.demo1;
 
 public interface Shape {
     void draw();

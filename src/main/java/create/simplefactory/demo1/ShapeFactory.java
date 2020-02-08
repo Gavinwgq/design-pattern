@@ -1,4 +1,4 @@
-package behavior.simplefactory.demo1;
+package create.simplefactory.demo1;
 
 public class ShapeFactory {
     public static Shape createShape(String type){

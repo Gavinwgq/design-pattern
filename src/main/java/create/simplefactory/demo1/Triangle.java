@@ -1,4 +1,4 @@
-package behavior.simplefactory.demo1;
+package create.simplefactory.demo1;
 
 public class Triangle implements Shape {
     public void draw() {

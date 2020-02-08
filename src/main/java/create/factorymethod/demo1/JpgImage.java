@@ -1,4 +1,4 @@
-package behavior.factorymethod.demo1;
+package create.factorymethod.demo1;
 
 public class JpgImage implements Image {
     @Override
