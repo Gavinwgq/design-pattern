@@ -2,8 +2,8 @@
 java设计模式学习
 
 六个创建型模式
-* 简单工厂模式
-* 工厂方法模式
+* [简单工厂模式](https://github.com/Gavinwgq/design-pattern/tree/master/src/main/java/create/simplefactory)
+* [工厂方法模式](https://github.com/Gavinwgq/design-pattern/tree/master/src/main/java/create/factorymethod)
 * 抽象工厂模式
 * 单例模式
 * 原型模式
