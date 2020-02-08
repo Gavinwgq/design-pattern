@@ -1,5 +1,8 @@
 package create.simplefactory.demo1;
 
+import create.simplefactory.demo1.factory.ShapeFactory;
+import create.simplefactory.demo1.product.Shape;
+
 public class Client {
 
     public static void main(String[] args) {

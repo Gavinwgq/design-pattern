@@ -1,4 +1,9 @@
-package create.simplefactory.demo1;
+package create.simplefactory.demo1.factory;
+
+import create.simplefactory.demo1.product.Circle;
+import create.simplefactory.demo1.product.Shape;
+import create.simplefactory.demo1.product.Square;
+import create.simplefactory.demo1.product.Triangle;
 
 public class ShapeFactory {
     public static Shape createShape(String type){

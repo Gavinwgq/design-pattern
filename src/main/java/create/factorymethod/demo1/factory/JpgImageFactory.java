@@ -1,4 +1,7 @@
-package create.factorymethod.demo1;
+package create.factorymethod.demo1.factory;
+
+import create.factorymethod.demo1.product.Image;
+import create.factorymethod.demo1.product.JpgImage;
 
 public class JpgImageFactory implements ImageFactory {
     @Override

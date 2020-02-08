@@ -1,5 +1,8 @@
-package create.abstractfactory.demo1;
+package create.abstractfactory.demo1.product;
 
+/**
+ * 安卓游戏控制具体产品
+ */
 public class AndroidInterfaceController implements InterfaceController {
     @Override
     public void gameInterface() {
