@@ -12,7 +12,7 @@ java设计模式学习
 **七个结构性模式**
 * [适配器模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/adapter/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 * [桥接模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/bridge/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)
-* 组合模式
+* [组合模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/composite/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md)
 * 装饰模式
 * 外观模式
 * 享元模式
