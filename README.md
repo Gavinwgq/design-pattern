@@ -16,7 +16,7 @@ java设计模式学习
 * [装饰模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/decorator/%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.md)
 * [外观模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/facade/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)
 * [享元模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/flyweight/%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
-* 代理模式
+* [代理模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/proxy/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 
 **十一个行为型模式**
 * 职责链模式
