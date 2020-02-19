@@ -19,7 +19,7 @@ java设计模式学习
 * [代理模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/structure/proxy/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 
 **十一个行为型模式**
-* 职责链模式
+* [职责链模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/chainofresponsibility/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 * 命令模式
 * 解释器模式
 * 迭代器模式
