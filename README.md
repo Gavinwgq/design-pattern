@@ -22,11 +22,11 @@ java设计模式学习
 * [职责链模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/chainofresponsibility/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 * [命令模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Command/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
 * 解释器模式
-* 迭代器模式
+* [迭代器模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Iterator/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 * 终结者模式
 * 备忘录模式
 * 观察者模式
 * 状态模式
-* 策略模式
+* [策略模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Strategy/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 * 模板方法模式
 * 访问者模式
