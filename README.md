@@ -24,7 +24,7 @@ java设计模式学习
 * 解释器模式
 * [迭代器模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Iterator/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 * 终结者模式
-* 备忘录模式
+* [备忘录模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Memento/%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
 * 观察者模式
 * 状态模式
 * [策略模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Strategy/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
