@@ -26,7 +26,7 @@ java设计模式学习
 * 终结者模式
 * [备忘录模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Memento/%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
 * 观察者模式
-* 状态模式
+* [状态模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/State/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
 * [策略模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Strategy/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 * 模板方法模式
 * 访问者模式
