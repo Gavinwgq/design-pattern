@@ -21,9 +21,9 @@ java设计模式学习
 **十一个行为型模式**
 * [职责链模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/chainofresponsibility/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 * [命令模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Command/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
-* 解释器模式
+* [解释器模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Interpreter/%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 * [迭代器模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Iterator/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
-* 终结者模式
+* [中介者模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Mediator/%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 * [备忘录模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Memento/%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
 * [观察者模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Observer/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 * [状态模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/State/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
