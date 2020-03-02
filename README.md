@@ -1,5 +1,5 @@
 # design-pattern
-java设计模式学习
+java设计模式学习，本项目主要是学习[刘伟](https://quanke.gitbooks.io/design-pattern-java/content/)老师的课件，项目中的程序基本上也是课件中的练习题，推荐有兴趣的同学看看相关文档，对练习题有什么好的想法可以交流交流。
 
 **六个创建型模式**
 * [简单工厂模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/create/simplefactory/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
