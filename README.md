@@ -30,3 +30,19 @@ java设计模式学习，本项目主要是学习[刘伟](https://quanke.gitbook
 * [策略模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Strategy/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 * [模板方法模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Template/%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95.md)
 * [访问者模式](https://github.com/Gavinwgq/design-pattern/blob/master/src/main/java/behavior/Visitor/%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+
+设计模式常用的七大原则有：
+
+1、单一职责原则
+
+2、接口隔离原则
+
+3、依赖倒转原则
+
+4、里氏替换原则
+
+5、开闭原则
+
+6、迪米特法则
+
+7、合成复用原则
